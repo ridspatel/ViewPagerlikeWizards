@@ -17,7 +17,7 @@ public class HomeActivity extends FragmentActivity {
     private TabsPagerAdapter mAdapter;
 
     private static int currentPage = 0;
-    private static int NUM_PAGES = 0;
+//    private static int NUM_PAGES = 0;
 
 
     @SuppressWarnings("deprecation")
